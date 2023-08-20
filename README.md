@@ -79,7 +79,3 @@ This document outlines the comprehensive strategy for ensuring the security, obs
 - **Implement Fixes**: Apply permanent fixes to address the root cause.
 - **Update Security Controls**: Update security measures based on lessons learned.
 - **Training and Awareness**: Provide training to prevent similar incidents in the future.
-
-Remember that security is an ongoing process, and continuous updates and reviews are essential to adapt to emerging threats and maintain a secure environment. Additionally, ensure compliance with relevant regulations and standards to uphold data privacy and security.
-
-For any questions or concerns related to security, please contact our security team at security@example.com.
